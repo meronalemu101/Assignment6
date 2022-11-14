@@ -6,3 +6,4 @@
 
 ### Stimulus Exercise
 1) See file [stimulus.py](https://github.com/meronalemu101/Assignment6/blob/efe63725d8f980ba5af84d0114f662c53438bc56/stimulus.py)
+
