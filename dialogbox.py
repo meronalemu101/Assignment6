@@ -1,4 +1,4 @@
-rom psychopy import gui, core, visual, #monitors, event
+from psychopy import gui, core, visual, #monitors, event
 from datetime import datetime
 import os
 import numpy as np
