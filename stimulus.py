@@ -64,3 +64,5 @@ for trial in range(nTrials):
     event.waitKeys() #wait for keypress
 
 win.close()
+
+#1)Displays images at specified size within pixel range on screen.
