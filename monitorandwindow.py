@@ -1,10 +1,3 @@
-from psychopy import gui, core, visual, monitors, event
-from datetime import datetime
-import os
-import numpy as np
-
-#info for 1,2, and 3 part of questions
-
 mon = monitors.Monitor('myMonitor', width=31.4, distance=60) 
 mon.setSizePix([1280,800])
 mon.save()
